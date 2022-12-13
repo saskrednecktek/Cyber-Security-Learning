@@ -5,11 +5,11 @@ day 4 walkthrough - https://youtu.be/fM9rrKozBxw?t=203
 day 5 walkthrough - https://www.youtube.com/watch?v=oqXG82ESTWw
 day 6 walkthrough - https://www.youtube.com/watch?v=dcGvnZ4JDHI
 day 7 walkthrough - https://www.youtube.com/watch?v=W4dZW5s2CeA
-day 8 walkthrough - 
-day 9 walkthrough - 
-day 10 walkthrough - 
-day 11 walkthrough - 
-day 12 walkthrough - 
+day 8 walkthrough - https://www.youtube.com/watch?v=4Oydt3fNlgQ
+day 9 walkthrough - https://www.youtube.com/watch?v=mZqNP2fOLlk
+day 10 walkthrough - https://www.youtube.com/watch?v=_ej3yMF31zg
+day 11 walkthrough - https://www.youtube.com/watch?v=RsJR2z_agiY
+day 12 walkthrough - https://www.youtube.com/watch?v=kdQZPLRnr3g
 day 13 walkthrough - 
 day 14 walkthrough - 
 day 15 walkthrough - 
@@ -39,12 +39,21 @@ https://tryhackme.com/room/protocolsandservers2
 https://tryhackme.com/room/hydra
 https://tryhackme.com/room/passwordattacks
 https://tryhackme.com/room/johntheripper0
+https://tryhackme.com/room/quotient
+https://tryhackme.com/room/agentt
+https://tryhackme.com/room/walkinganapplication
+https://tryhackme.com/room/volatility
+https://tryhackme.com/room/intromalwareanalysis
+https://tryhackme.com/room/dissectingpeheaders
+
 Modules
 https://tryhackme.com/module/cyber-defence-frameworks
 https://tryhackme.com/module/endpoint-security-monitoring
 https://tryhackme.com/module/nmap
 https://tryhackme.com/module/phishing
 https://tryhackme.com/module/security-information-event-management
+https://tryhackme.com/module/hacking-active-directory
+https://tryhackme.com/module/digital-forensics-and-incident-response
 
 External Resources
 https://www.trendmicro.com/vinfo/us/security/definition/spear-phishing
@@ -56,8 +65,8 @@ https://github.com/vanhauser-thc/thc-hydra
 https://labs.inquest.net/
 https://www.virustotal.com/gui/home/upload
 https://emailrep.io/
-
-
+https://volatility3.readthedocs.io/en/latest/volatility3.plugins.html
+https://volatility3.readthedocs.io/en/stable/volatility3.plugins.windows.html
 
 
 
