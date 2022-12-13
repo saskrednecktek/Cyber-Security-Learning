@@ -1,0 +1,75 @@
+day 1 walkthrough - https://www.youtube.com/watch?v=G_2OcE8hxbA
+day 2 walkthrough - https://www.youtube.com/watch?v=OXBJu5QKJmw
+day 3 walkthrough - https://www.youtube.com/watch?v=j3sSJudp-H8
+day 4 walkthrough - https://youtu.be/fM9rrKozBxw?t=203
+day 5 walkthrough - https://www.youtube.com/watch?v=oqXG82ESTWw
+day 6 walkthrough - https://www.youtube.com/watch?v=dcGvnZ4JDHI
+day 7 walkthrough - https://www.youtube.com/watch?v=W4dZW5s2CeA
+day 8 walkthrough - 
+day 9 walkthrough - 
+day 10 walkthrough - 
+day 11 walkthrough - 
+day 12 walkthrough - 
+day 13 walkthrough - 
+day 14 walkthrough - 
+day 15 walkthrough - 
+day 16 walkthrough - 
+day 17 walkthrough - 
+day 18 walkthrough - 
+day 19 walkthrough - 
+day 20 walkthrough - 
+day 21 walkthrough - 
+day 22 walkthrough - 
+day 23 walkthrough - 
+day 24 walkthrough - 
+day 25? walkthrough - 
+
+Other Rooms
+https://tryhackme.com/room/mitre
+https://tryhackme.com/room/cyberkillchainzmt
+https://tryhackme.com/room/unifiedkillchain
+https://tryhackme.com/room/windowseventlogs
+https://tryhackme.com/room/googledorking
+https://tryhackme.com/room/furthernmap
+https://tryhackme.com/room/nmap01
+https://tryhackme.com/room/nmap02
+https://tryhackme.com/room/nmap03
+https://tryhackme.com/room/hydra
+https://tryhackme.com/room/protocolsandservers2
+https://tryhackme.com/room/hydra
+https://tryhackme.com/room/passwordattacks
+https://tryhackme.com/room/johntheripper0
+Modules
+https://tryhackme.com/module/cyber-defence-frameworks
+https://tryhackme.com/module/endpoint-security-monitoring
+https://tryhackme.com/module/nmap
+https://tryhackme.com/module/phishing
+https://tryhackme.com/module/security-information-event-management
+
+External Resources
+https://www.trendmicro.com/vinfo/us/security/definition/spear-phishing
+https://who.is/whois/
+https://haveibeenpwned.com/
+https://www.tenable.com/products/nessus
+https://www.acunetix.com/
+https://github.com/vanhauser-thc/thc-hydra
+https://labs.inquest.net/
+https://www.virustotal.com/gui/home/upload
+https://emailrep.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
